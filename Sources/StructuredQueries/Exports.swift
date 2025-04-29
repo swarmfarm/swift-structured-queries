@@ -1,2 +1,1 @@
 @_exported import StructuredQueriesCore
-@_exported import StructuredQueriesMacros
